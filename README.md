@@ -12,7 +12,7 @@
 
 - navConf.js 导航栏
 
-- sidebarConf.js 侧边拦 手动维护侧边栏需在此文件中进行配置。若无特殊需求，可以考虑使用插件autosiderbar
+- sidebarConf.js 侧边拦 手动维护侧边栏需在此文件中进行配置。若无特殊需求，可以考虑使用插件[vuepress-plugin-auto-sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar.git)
 
 - pluginsConf.js 安装插件
 
