@@ -20,9 +20,9 @@
 
 ## 博客部署
 
-推荐使用[vercel](https://vercel.com/)来部署
+推荐使用[Vercel](https://vercel.com/)来部署
 
-vercel可以与github直接关联，当你推送内容至GitHub之后，vercel将会自动将博客重新编译和发布。
+Vercel可以与github直接关联，当你推送内容至GitHub之后，Vercel将会自动将博客重新编译和发布。
 
 整个配置过程比较简单，有两点需要注意：
 
