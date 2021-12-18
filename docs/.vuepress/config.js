@@ -15,7 +15,7 @@ module.exports = {
 		logo: '/img/hero.png',
 		sidebar: sidebarConf,
 		nav: navConf,
-		repo: 'zengsl/vuepress-blog',
+		repo: 'dongdongxiao-git/vuepress-blog',
 	},
 	plugins: pluginsConf
 }
