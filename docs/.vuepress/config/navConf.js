@@ -8,7 +8,7 @@ module.exports = [{
 		link: '/web/',
 		items: [{
 				text: 'vue',
-				link: '/vue/01'
+				link: '/vue/01/'
 			}
 		]
 	},
